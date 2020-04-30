@@ -20,3 +20,6 @@ This software package is for creating object detection models
 5. Use export_model.py to build the trained model, change the filepaths as detailed at the top of the script
 
 6. Use processGenerativeImage.py to build a larger training set, change the filepaths as detailed at the top of the script
+
+Based on the tutorial:
+https://www.geeksforgeeks.org/ml-training-image-classifier-using-tensorflow-object-detection-api/
