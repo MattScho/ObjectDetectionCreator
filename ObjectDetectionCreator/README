@@ -1,0 +1,8 @@
+This software package is for creating object detection models
+
+1. Define your object classes in labelingApp/windows_v1.2/data/predefined_classes.txt
+
+2. Add images to the Images/... testImages, trainImages, and validationImages
+    Atleast each object should be represented 5 times
+
+3. Use train.py to create a model
